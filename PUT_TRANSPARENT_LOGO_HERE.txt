@@ -1,0 +1,2 @@
+Place your EcoNest logo here as logo.png after removing its background.
+Keep the original image separately as a backup. This project currently displays a text logo if logo.png is absent.
